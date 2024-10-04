@@ -1,0 +1,19 @@
+# unit= int(input('unit'))
+# if unit < 100 :
+#     print ("no charge")
+# elif unit  < 200 :
+#     print('5 ksh')
+# else  :
+#     print ('10 ksh')
+
+# number=int(input("number"))
+# output= (number%10)
+# if output %3==0 :
+#     print("divisible")
+# else:
+#     print("not divisible")
+
+city =input("city").lower()
+6
+
+
